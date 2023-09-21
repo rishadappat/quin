@@ -11,15 +11,19 @@ Intructions:
 
 <table>
   <tr>
-    <td>Start</td>
+     <td>Start</td>
      <td>Questionnaire List</td>
-     <td>Create Questionnaire</td>
-    <td>Create Question</td>
-    <td>Create Question Success</td>
   </tr>
   <tr>
     <td><img src="screenshots/start.png" width=270 height=480></td>
     <td><img src="screenshots/questionnaire_list.png" width=270 height=480></td>
+  </tr>
+  <tr>
+     <td>Create Questionnaire</td>
+     <td>Create Question</td>
+     <td>Create Question Success</td>
+  </tr>
+  <tr>
     <td><img src="screenshots/create_questionnaire.png" width=270 height=480></td>
     <td><img src="screenshots/create_question.png" width=270 height=480></td>
     <td><img src="screenshots/create_question_success.png" width=270 height=480></td>
