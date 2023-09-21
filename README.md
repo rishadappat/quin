@@ -1,16 +1,9 @@
-# quin
+# Quin
 
-A new Flutter project.
+A Questionnaire application designed and developed in flutter(Work in progress)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Intructions:
+1. Clone project from git
+2. Install firebase CLI: https://firebase.google.com/docs/cli
+3. Login and test firebase cli
+4. setup firestore development enviroment: https://firebase.google.com/docs/firestore/quickstart
