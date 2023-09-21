@@ -3,7 +3,7 @@ import 'package:go_router/go_router.dart';
 import 'package:quin/router/router_name.dart';
 import 'package:quin/utils/theme.dart';
 import 'package:quin/widgets/appbar.dart';
-import 'package:quin/widgets/questionnaire_item.dart';
+import 'package:quin/widgets/question/questionnaire_item.dart';
 
 class QuestionnaireList extends StatefulWidget {
   const QuestionnaireList({super.key});
