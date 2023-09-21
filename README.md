@@ -1,6 +1,6 @@
 # Quin
 
-A Questionnaire application designed and developed in flutter
+A Questionnaire application designed and developed in flutter(Work in progress)
 
 Intructions:
 1. Clone project from git
