@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "660836668328",
+    "project_id": "quin-d54e7",
+    "storage_bucket": "quin-d54e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660836668328:android:826f0d1f9f44497153c39d",
+        "android_client_info": {
+          "package_name": "com.example.quin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnddgYhaJ9_It_uNLCTzh68TxkUO_nQBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
