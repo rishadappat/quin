@@ -9,6 +9,17 @@ Intructions:
 4. setup firestore development enviroment: https://firebase.google.com/docs/firestore/quickstart
 
 
-![start](https://github.com/rishadappat/quin/blob/master/screenshots/start.png?raw=true =20%x)      ![questionnaire_list](https://github.com/rishadappat/quin/blob/master/screenshots/questionnaire_list.png?raw=true =20%x)
-![create_questionnaire](https://github.com/rishadappat/quin/blob/master/screenshots/create_questionnaire.png?raw=true =20%x)      ![create_question](https://github.com/rishadappat/quin/blob/master/screenshots/create_question.png?raw=true =20%x)
-![create_question_success](https://github.com/rishadappat/quin/blob/master/screenshots/create_question_success.png?raw=true =20%x)
+<table>
+  <tr>
+    <td>First Screen Page</td>
+     <td>Holiday Mention</td>
+     <td>Present day in purple and selected day in pink</td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/create_questionnaire.png" width=270 height=480></td>
+    <td><img src="screenshots/questionnaire_list.png" width=270 height=480></td>
+    <td><img src="screenshots/create_questionnaire.png" width=270 height=480></td>
+    <td><img src="screenshots/create_question.png" width=270 height=480></td>
+    <td><img src="screenshots/create_question_success.png" width=270 height=480></td>
+  </tr>
+ </table>
