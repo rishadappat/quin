@@ -15,8 +15,8 @@ Intructions:
      <td>Questionnaire List</td>
   </tr>
   <tr>
-    <td><img src="screenshots/start.png" width=270 height=480></td>
-    <td><img src="screenshots/questionnaire_list.png" width=270 height=480></td>
+    <td><img src="screenshots/start.png" width=270 height=585></td>
+    <td><img src="screenshots/questionnaire_list.png" width=270 height=585></td>
   </tr>
   <tr>
      <td>Create Questionnaire</td>
@@ -24,8 +24,8 @@ Intructions:
      <td>Create Question Success</td>
   </tr>
   <tr>
-    <td><img src="screenshots/create_questionnaire.png" width=270 height=480></td>
-    <td><img src="screenshots/create_question.png" width=270 height=480></td>
-    <td><img src="screenshots/create_question_success.png" width=270 height=480></td>
+    <td><img src="screenshots/create_questionnaire.png" width=270 height=585></td>
+    <td><img src="screenshots/create_question.png" width=270 height=585></td>
+    <td><img src="screenshots/create_question_success.png" width=270 height=585></td>
   </tr>
  </table>
